@@ -1,4 +1,3 @@
-![search-section](img/search-section.png)
 \
 \
 
