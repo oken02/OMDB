@@ -1,6 +1,3 @@
-\
-\
-
 # OMDB
 
 - Buscar películas y listarlas.
